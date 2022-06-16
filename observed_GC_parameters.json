@@ -4,14 +4,32 @@
   "PM_plot_x_axis_min": -2.0,
   "PM_plot_x_axis_max": 10.0,
   "PM_plot_y_axis_min": -8.0,
-  "PM_plot_y_axis_max": 4.0
+  "PM_plot_y_axis_max": 4.0,
+  "width_minim": 1.65,
+  "width_maxim": 1.7,
+  "width_nstep": 5,
+  "height_minim": 1.85,
+  "height_maxim": 1.9,
+  "height_nstep": 5,
+  "incl_minim": -89.9,
+  "incl_maxim": 89.9,
+  "incl_nstep": 200
   },
   {
   "name": "NGC12344",
   "PM_plot_x_axis_min": -243.0,
   "PM_plot_x_axis_max": 10.0,
   "PM_plot_y_axis_min": -8.0,
-  "PM_plot_y_axis_max": 4.0
+  "PM_plot_y_axis_max": 4.0,
+  "width_minim": 1.65,
+  "width_maxim": 1.7,
+  "width_nstep": 5,
+  "height_minim": 1.85,
+  "height_maxim": 1.9,
+  "height_nstep": 5,
+  "incl_minim": -89.9,
+  "incl_maxim": 89.9,
+  "incl_nstep": 200
   }
   ]
 }
