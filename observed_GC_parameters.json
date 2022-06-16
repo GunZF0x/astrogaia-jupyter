@@ -1,0 +1,17 @@
+{"globular_cluster":
+  [{
+  "name": "NGC104",
+  "PM_plot_x_axis_min": -2.0,
+  "PM_plot_x_axis_max": 10.0,
+  "PM_plot_y_axis_min": -8.0,
+  "PM_plot_y_axis_max": 4.0
+  },
+  {
+  "name": "NGC12344",
+  "PM_plot_x_axis_min": -243.0,
+  "PM_plot_x_axis_max": 10.0,
+  "PM_plot_y_axis_min": -8.0,
+  "PM_plot_y_axis_max": 4.0
+  }
+  ]
+}
