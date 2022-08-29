@@ -2,4 +2,4 @@ dataclass-wizard
 numpy
 scipy
 astropy
-
+tabulate
