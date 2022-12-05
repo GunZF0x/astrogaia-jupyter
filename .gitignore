@@ -1,0 +1,6 @@
+Objects/*
+__pycache__/
+.ipynb_checkpoints/
+*Ellipse*.png
+*Ellipse*.pdf
+
