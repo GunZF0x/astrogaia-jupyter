@@ -3,3 +3,6 @@ numpy
 scipy
 astropy
 tabulate
+astroquery
+matplotlib
+jupyterthemes
