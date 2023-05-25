@@ -2,7 +2,7 @@ dataclass-wizard
 numpy
 scipy
 astropy
-tabulate
+tabulate>=0.8.10
 astroquery
 matplotlib
 jupyterthemes
