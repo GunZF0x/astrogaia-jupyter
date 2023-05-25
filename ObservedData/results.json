@@ -1,0 +1,11 @@
+{"Globular Clusters":
+ {
+    "name":"NGC104",
+    "pmra": -2,
+    "pmdec": -3,
+    "width": -3.,
+    "height": -4,
+    "inclination": 50,
+    "members": 39000
+ }
+}
